@@ -1,5 +1,5 @@
-# goals
-My goals for things I want to accomplish with my life
+# Goals
+My goals for things I want to accomplish with my life. Subject to change.
 
 ## Personal Goals
 
@@ -10,6 +10,8 @@ My goals for things I want to accomplish with my life
 * To use my extra resources (time, money, energy, etc.) in the best ways I can to help others 
 * To be open and honest with myself and others about the issues I have or am dealing with in order to foster communication about "taboo" subjects one shouldn't talk about
 * To stretch myself to constantly go just a bit further outside of my comfort zone
+* To learn to love myself, as I am, and with all of my flaws
+* To learn to love my body
 
 ## Employment Goals
 
@@ -34,3 +36,6 @@ My goals for things I want to accomplish with my life
 * Future: To speak at Grace Hopper
 * To give technical topics that are fun and interesting
 * To give non-technical topics that are meaningful, passionate, and influence people's lives
+
+### Past goals
+* 2015: To graduate from college
