@@ -30,6 +30,7 @@ My goals for things I want to accomplish with my life
 
 * 2015: To give my "Intro to Hacking the Raspberry Pi" talk at least 7 times.
 * 2015: To develop (abstract and bullet points) two more talk ideas
-* 2016: To speak at least at 6 conferences on any topic
+* 2016: To speak at least at 6 conferences on any topic, and give at least 10 talks or panel discussions
+* Future: To speak at Grace Hopper
 * To give technical topics that are fun and interesting
 * To give non-technical topics that are meaningful, passionate, and influence people's lives
