@@ -1,5 +1,12 @@
 # Goals
-My goals for things I want to accomplish with my life. Subject to change.
+My goals for things I want to accomplish with my life. These will evolve over 
+time. They're mostly for me to remind myself of things I'd like to see happen 
+for myself.
+
+After I was referred to a mentoring program and asked if it "met my volunteer 
+goals," I stopped to think and realized that my time and energy and skillset 
+are valuable. I want to spend them wisely and the most effectively. That is 
+why I created this list.
 
 ## Personal Goals
 
